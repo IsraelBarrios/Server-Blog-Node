@@ -1,3 +1,5 @@
 # Server-Blog-Node
 
-"npm run dev": Run server with nodedmon
+To run server:
+"npm run dev": Run development with nodedmon(nodemon must be installed globally)
+"npm start": Run production
